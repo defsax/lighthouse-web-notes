@@ -7,3 +7,4 @@ This repository contains all of the notes taken by [Perry Defayette](https://git
 ## Table of Contents
   * [Week 1](/week_01)
     * [Day 1](/week_01/day_1)
+		* [Day 2](/week_01/day_2)
