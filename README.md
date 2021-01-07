@@ -9,5 +9,5 @@ This repository contains all of the notes taken by [Perry Defayette](https://git
     * [Day 1](/week_01/day_1)
     * [Day 2](/week_01/day_2)
     * [Day 3](/week_01/day_3)
-    * [Day_4](/weel_01/day_4)
-    * [Day_5](/weel_01/day_5)
+    * [Day 4](/week_01/day_4)
+    * [Day 5](/week_01/day_5)
