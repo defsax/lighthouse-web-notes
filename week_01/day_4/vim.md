@@ -5,6 +5,10 @@
 
 **`:w`** to save
 
+**`:wq`** to save and quit
+
+**`:q!`** to quit without saving
+
 ## Command mode
 
 **`hjkl`** to move around in command mode.
@@ -24,4 +28,4 @@
 
 **`ESC`** to exit
 
-[cheat sheet](vi-vim-cheat-sheet.png)
+![cheat sheet](vi-vim-cheat-sheet.png)
