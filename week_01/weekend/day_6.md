@@ -17,3 +17,7 @@ The package-lock.json file lists all the details about our project's dependencie
 [Types of Testing](https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)
 
 [The Happy Path](https://effectivecio.com/2009/11/02/the-happy-path/)
+
+Mocha: Testing  framework
+
+Chai: Assertion library
