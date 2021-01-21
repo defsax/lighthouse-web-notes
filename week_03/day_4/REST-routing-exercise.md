@@ -4,48 +4,42 @@ You are asked to build an API for a photo app.
 You need to create the routes according to REST for the following actions:
 
 
-The end-user wants to see a list of photos
-
-get /photos/
-
-
-The end-user wants to see a particular photo
-
-get /photos/:id
+1: The end-user wants to see a list of photos
+* get /photos/
 
 
-The end-user wants to upload a new photo
-
-get /photos/new
-post /photos
+2: The end-user wants to see a particular photo
+* get /photos/:id
 
 
-The end-user wants to update an existing photo
-
-#### display form to user. user needs to fill it out
-get /photos/:id/edit
-#### update the database
-put /photos/:id
-
-
-The end-user wants to see a list of user profiles
-
-get /users/
+3: The end-user wants to upload a new photo
+### display form
+  * get /photos/new
+### update the database
+  * post /photos
 
 
-The end-user wants to see a specific profile
-
-get /users/:id
-
-
-The end-user wants to see a list of the photos for a specific profile
-
-get /users/:id/photos/
+4: The end-user wants to update an existing photo
+### display form to user. user needs to fill it out
+  * get /photos/:id/update
+### update the database
+  * put /photos/:id
 
 
-The end-user wants to see one particular photo of a particular user
+5: The end-user wants to see a list of user profiles
+* get /users/
 
-get /users/:user_id/photos/:id
+
+6: The end-user wants to see a specific profile
+* get /users/:id
+
+
+7: The end-user wants to see a list of the photos for a specific profile
+* get /users/:id/photos/
+
+
+8: The end-user wants to see one particular photo of a particular user
+* get /users/:user_id/photos/:id
 
 
 You need to write the route with a verb and a path. You don't need to implement the functionality.
