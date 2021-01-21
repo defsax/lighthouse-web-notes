@@ -14,3 +14,4 @@ This repository contains all of the notes taken by [Perry Defayette](https://git
     * [Day 6](/weekend/day_6)
   * [Week 3](/week_03)
     * [Day 1](/week_03/day_1)
+    * [Day 4](/week_03/day_4)
